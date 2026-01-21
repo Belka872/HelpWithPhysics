@@ -23,4 +23,4 @@ java -cp out app.AppLauncher
 ![](ReadMeImage/scales.png)
 ![](ReadMeImage/tasks.png)
 ![](ReadMeImage/plot.png)
-![](ReadMeImage/calc.png)
+![](ReadMeImage/Calc.png)
