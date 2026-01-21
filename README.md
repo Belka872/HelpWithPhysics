@@ -20,3 +20,7 @@ java -cp out app.AppLauncher
 - `model/` модели для различных задач
 - `service/` работа приложения
 
+![](ReadMeImage/scales.png)
+![](ReadMeImage/tasks.png)
+![](ReadMeImage/plot.png)
+![](ReadMeImage/calc.png)
